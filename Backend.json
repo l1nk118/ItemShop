@@ -2,7 +2,7 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_027_Athena_Commando_F"
+            "AthenaCharacter:CID_712_Athena_Commando_M_Spy
         ],
         "price": 1200
     },
