@@ -2,7 +2,8 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_027_Athena_Commando_F"
+           "Athenacharter:CID_703_Athena_Commando_M_Cyclone
+           "Athenabacpack:BID_468_Cyclone
         ],
         "price": 1200
     },
