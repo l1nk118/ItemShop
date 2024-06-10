@@ -2,6 +2,10 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
+            Athenacharter
+            athenadance
+            athenabackpack
+            athenaglider
             "AthenaCharacter:CID_027_Athena_Commando_F"
         ],
         "price": 1200
